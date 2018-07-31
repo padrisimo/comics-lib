@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "image": "http://www.coverbrowser.com/image/bestselling-comics-2007/3591-1.jpg",
+      "title": "Born Again",
+      "author": "Frank Miller",
+      "price": "19.50"
+    },
+    {
+      "image": "http://www.coverbrowser.com/image/bestselling-comics-2006/176-1.jpg",
+      "title": "From Hell",
+      "author": "Allan Moore",
+      "price": "30.00",
+      "id": 2
+    },
+    {
+      "image": "http://www.coverbrowser.com/image/hellboy/1-1.jpg",
+      "title": "Hellboy",
+      "author": "Mike Mignola",
+      "price": "5",
+      "id": 3
+    },
+    {
+      "image": "http://www.coverbrowser.com/image/transmetropolitan/42-1.jpg",
+      "title": "Transmetropolitan #42 ",
+      "author": "Warren Ellis",
+      "price": "03.50",
+      "id": 4
+    },
+    {
+      "image": "http://www.coverbrowser.com/image/preacher/37-1.jpg",
+      "title": "Preacher #37  ",
+      "author": "Garth Ennis",
+      "price": "03.50",
+      "id": 5
+    }
+  ]
+}
